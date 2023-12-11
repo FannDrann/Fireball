@@ -1,6 +1,6 @@
 # Fireball - Paper Plugin for Minecraft.
 
-команда: /nuke <speed> <radius>
+command: /nuke <speed> <radius>
  
 # Fireball - Paper Плагин для Майнкрафта.
 

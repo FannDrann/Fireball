@@ -1,0 +1,6 @@
+name: FireNuke
+version: '${project.version}'
+main: fanndrann.firenuke.FireNuke
+api-version: '1.20'
+commands:
+  nuke: {}

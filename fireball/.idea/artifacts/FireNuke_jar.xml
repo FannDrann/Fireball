@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FireNuke:jar">
+    <output-path>$PROJECT_DIR$/../papper/plugins</output-path>
+    <root id="archive" name="FireNuke.jar">
+      <element id="module-output" name="FireNuke" />
+    </root>
+  </artifact>
+</component>
